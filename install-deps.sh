@@ -1,3 +1,11 @@
+####### Wenbin's modification
+# TODO: this should be in puppet!
+
+sudo ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
+sudo brew install autoconf automake libtool pkg-config libyaml readline libxml2 libxslt libksba openssl sqlite
+
+####### End of wenbin's modification
+
 # up to you (me) if you want to run this as a file or copy paste at your leisure
 
 
