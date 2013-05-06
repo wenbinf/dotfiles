@@ -1,3 +1,3 @@
 # Wenbin's dotfiles.
 
-This is forked from  paul irish's dotfiles (https://github.com/paulirish/dotfiles).
+This is built up based on paul irish's dotfiles (https://github.com/paulirish/dotfiles).
